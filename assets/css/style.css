@@ -1,0 +1,60 @@
+p {
+	font-size: 16px;
+	font-family: "Arial";
+	color: #FF0000
+}
+
+h1, h2 {
+	color: #FF0000;
+}
+
+p.numberGuess {
+	font-size: 40px;
+	float: right;
+	color: #FF0000;
+}
+
+body {
+	background-image: url("../images/vortex.jpg")
+}
+
+#randomNumber {
+	font-family: 'Arial'
+	float: right;
+	font-size: 30px;
+	color: #FF0000;
+	top: 10px;
+	border-style: dotted;
+}
+
+#Amethyst {
+	width: 100px;
+	height: 70px;
+	margin: 0;
+}
+
+#apophyllite {
+	width: 100px;
+	height: 70px;
+	margin: 0;
+}
+
+#hematite {
+	width: 100px;
+	height: 70px;
+	margin-right: 50px;
+}
+
+#obsidian {
+	width: 100px;
+	height: 70px;
+	margin: 0;
+
+}
+
+
+.numberGuess {
+	position: relative;
+	left: 50px;
+}
+
