@@ -1,5 +1,3 @@
-
-
   var restart = function() {
   playerScore=[];
   $(".numberGuess").text();
